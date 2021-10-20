@@ -28,7 +28,7 @@ Ensure you have physical device or emulator connected.
 - fluttertoast: ^8.0.3
 - jwt_decoder: ^2.0.1
 
-## Screenshots
+## Screenshots of what I achieved
 
 ![alt text](/screenshots/splash.jpg)
 ![alt text](/screenshots/sidemenu.jpg)
