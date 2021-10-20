@@ -6,6 +6,9 @@ laban405@gmail.com
 
 +254797313732
 
+## Apk Link
+[Interintel Flutter Test Apk Link](https://drive.google.com/file/d/177XmbYw0erAtPPgd-GVMN0MiZcFmY6Tr/view?usp=sharing)
+
 ## Getting started
 1. Git clone this project
 2. Open a terminal or windows CMD inside the project folder
@@ -13,6 +16,7 @@ laban405@gmail.com
 4. Run  "flutter run" to start the application
 
 Ensure you have physical device or emulator connected.
+
 
 ## Packages used
 - get: ^4.1.1
